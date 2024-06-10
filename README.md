@@ -1,4 +1,4 @@
-# Operating Systems Coursework
+# Operating Systems
 This repositorie contains my Operating Systems module coursework which I took as part of my Computer Science Degree during my second year at The Univeristy of Sussex.
 
 The assignment was to construct various CPU scheduling algorithms and then devise a set of tests to evaluate and contrast the various methods' performances. 
