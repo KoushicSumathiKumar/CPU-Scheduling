@@ -1,0 +1,7 @@
+numberOfProcesses=30
+staticPriority=0
+meanInterArrival=20.0
+meanCpuBurst=5
+meanIOBurst=35
+meanNumberBursts=5.0
+seed=214218561663227
