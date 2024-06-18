@@ -1,15 +1,15 @@
 # Operating Systems
-This repositorie contains my Operating Systems module coursework which I took as part of my Computer Science Degree during my second year at The University of Sussex.
+This repositorie contains my **Operating Systems** module coursework which I took as part of my Computer Science Degree during my second year at **The University of Sussex**.
 
-The assignment was to construct various CPU scheduling algorithms and then devise a set of tests to evaluate and contrast the various methods' performances. 
+The assignment was to construct various **CPU scheduling algorithms** and then devise a set of tests to **evaluate and contrast** the various methods' performances. 
 
 My score was 85 out of 100.
 
 # Set Up and Folder Structure
 
-All of the experiments can be run using the run.bat batch script.
+All of the experiments can be run using the **run.bat** batch script.
 
-The run.bat creates a new directory for each experiment named experiment 1, 2, and 3, this directory contains three subdirectories:
+The **run.bat** creates a new directory for each experiment named experiment 1, 2, and 3, this directory contains three subdirectories:
 
 - **inputs** - contains the input data and input parameters for the experiment
 - **outputs** - contains the output files from the experiment from each scheduler
