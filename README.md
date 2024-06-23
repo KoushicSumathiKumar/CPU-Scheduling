@@ -24,3 +24,5 @@ Additionally, these scripts rely on external libraries, namely pandas and matplo
 - `pip install pandas`
 
 - `pip install matplotlib`
+
+If you have any questions, don't hesitate to drop a message on my [LinkedIn](https://www.linkedin.com/in/koushic-sumathi-kumar/) :)
